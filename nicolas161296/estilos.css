@@ -1,0 +1,97 @@
+#Contenedor{
+  background-color: #9ad3d5;
+  display: grid;
+  grid-template-columns: 45% 65%;
+  width: 100%;
+  grid-gap: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  
+
+  
+}
+#Datos_personales{
+  padding: auto;
+  margin-inline:top;
+  width: 100%;
+  height: 100%;
+  background-color: #c9e265;
+  text-align: center;
+  
+}
+
+#datos_pesonales2{
+  margin-top: 50em;
+}
+
+#datos_pesonales3{
+  font-size: 18px;
+  position:relative;
+  bottom: 0;
+}
+
+#Foto {
+  width: 150px;
+  border-radius: 50%;
+}
+#Celular_ico{
+  height: 5%;
+  width: 5%;
+}
+#Telefono_ico{
+  height: 4%;
+  width: 4%;
+}
+#Mail_ico{
+  height: 6%;
+  width: 6%;
+}
+#Direccion_ico{
+  height: 5%;
+  width: 5%;
+}
+#Perfil_dinamico{
+  text-align: center;
+  width: 50%;
+  height: 100%;
+  margin: 0px;
+}
+
+#Perfil_dinamico h1:hover{
+  background: radial-gradient(circle,#fff,#c9e265);
+
+}
+#Perfil_dinamico h1{
+  cursor: pointer;
+}
+
+
+#texto{
+  display: none;
+  
+  
+}
+#texto1{
+  display: none;
+  
+}
+#texto2{
+  display: none;
+  
+}
+#texto3{
+  display: none;
+  
+}
+#texto4{
+  display: none;
+  
+}
+#texto5{
+  display: none;
+  
+}
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
